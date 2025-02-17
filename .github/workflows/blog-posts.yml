@@ -2,7 +2,7 @@ name: Update Blog Posts
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # 12시간마다 실행 (원하는 시간으로 변경 가능)
+    - cron: '0 */12 * * *'  # 12시간마다 실행
   workflow_dispatch:  # 수동 실행도 가능
 
 jobs:
@@ -14,3 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://beunyeong.tistory.com/rss"
+          request_headers: '{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}'
