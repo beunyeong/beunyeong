@@ -1,0 +1,26 @@
+name: Update README with Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 매시간 정각에 실행
+  workflow_dispatch: # 수동 실행 가능
+
+permissions:
+  contents: write # README 업데이트 권한 부여
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Latest Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: "5" # 최신 게시물 5개 가져오기
+          remove_duplicates: true
+          feed_list: "https://beunyeong.tistory.com/rss" # 본인의 Tistory RSS URL
+          user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+          accept_header: "text/xml"
