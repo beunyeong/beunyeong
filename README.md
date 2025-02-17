@@ -37,9 +37,6 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
-- [데몬 Thread, 사용자 Thread](https://beunyeong.tistory.com/30)
-- 연결 중...
-- 연결 중...
 <!-- BLOG-POST-LIST:END -->
 
 ---
