@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[250211] 스파르타 내일배움캠프 Spring 7기 수료](https://beunyeong.tistory.com/202)
 - [250102_스파르타 내일배움캠프 Spring 트랙  DAY64](https://beunyeong.tistory.com/180)
 - [241227_스파르타 내일배움캠프 Spring 트랙  DAY61](https://beunyeong.tistory.com/174)
 - [241220_스파르타 내일배움캠프 Spring 트랙  DAY57](https://beunyeong.tistory.com/167)
 - [Docker Image 관련 명령어](https://beunyeong.tistory.com/165)
-- [Docker Container 관련 명령어](https://beunyeong.tistory.com/164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
