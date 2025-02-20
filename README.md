@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [작성중.....[240218] 오늘 뭐 먹지? 최종 프로젝트 개발기록](https://beunyeong.tistory.com/203)
 - [[250211] 스파르타 내일배움캠프 Spring 7기 수료](https://beunyeong.tistory.com/202)
 - [[250121] 403 FORBIDDEN 에러 발생 원인 및 해결 과정](https://beunyeong.tistory.com/199)
 - [[250118] Jackson 역직렬화 에러 발생](https://beunyeong.tistory.com/198)
 - [[250103] AWS&lpar;EC2, RDS, S3, Redis&rpar;](https://beunyeong.tistory.com/183)
-- [250102_스파르타 내일배움캠프 Spring 트랙  DAY64](https://beunyeong.tistory.com/180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
