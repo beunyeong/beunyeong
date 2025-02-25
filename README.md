@@ -41,7 +41,7 @@
 - [[250121] 403 FORBIDDEN 에러 발생 원인 및 해결 과정](https://beunyeong.tistory.com/199)
 - [[250118] Jackson 역직렬화 에러 발생](https://beunyeong.tistory.com/198)
 - [[250103] AWS&lpar;EC2, RDS, S3, Redis&rpar;](https://beunyeong.tistory.com/183)
-- [250102_스파르타 내일배움캠프 Spring 트랙  DAY64](https://beunyeong.tistory.com/180)
+- [[241231] Owner 5조의 심화 프로젝트: KPT 회고](https://beunyeong.tistory.com/177)
 <!-- BLOG-POST-LIST:END -->
 
 ---
