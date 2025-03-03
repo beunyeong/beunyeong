@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[프로그래머스] 문자열 뒤집기](https://beunyeong.tistory.com/209)
 - [[250211] 스파르타 내일배움캠프 Spring 7기 수료](https://beunyeong.tistory.com/202)
 - [[250121] 403 FORBIDDEN 에러 발생 원인 및 해결 과정](https://beunyeong.tistory.com/199)
 - [[250118] Jackson 역직렬화 에러 발생](https://beunyeong.tistory.com/198)
 - [[250103] AWS&lpar;EC2, RDS, S3, Redis&rpar;](https://beunyeong.tistory.com/183)
-- [[241231] Owner 5조의 심화 프로젝트: KPT 회고](https://beunyeong.tistory.com/177)
 <!-- BLOG-POST-LIST:END -->
 
 ---
