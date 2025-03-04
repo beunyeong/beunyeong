@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[프로그래머스] 배열 자르기, 짝수 홀수 개수](https://beunyeong.tistory.com/211)
 - [[프로그래머스] 특정 문자 제거하기, 문자 반복 출력하기](https://beunyeong.tistory.com/210)
 - [[프로그래머스] 문자열 뒤집기, 세균 번식](https://beunyeong.tistory.com/209)
 - [[250211] 스파르타 내일배움캠프 Spring 7기 수료](https://beunyeong.tistory.com/202)
 - [[250121] 403 FORBIDDEN 에러 발생 원인 및 해결 과정](https://beunyeong.tistory.com/199)
-- [[250118] Jackson 역직렬화 에러 발생](https://beunyeong.tistory.com/198)
 <!-- BLOG-POST-LIST:END -->
 
 ---
