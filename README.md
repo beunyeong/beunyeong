@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[프로그래머스] 머쓱이보다 키 큰 사람](https://beunyeong.tistory.com/214)
 - [[프로그래머스] 삼각형의 완성조건&lpar;1&rpar;, 배열의 유사도](https://beunyeong.tistory.com/213)
 - [[프로그래머스] 점의 위치 구하기, 아이스 아메리카노](https://beunyeong.tistory.com/212)
 - [[프로그래머스] 배열 자르기, 짝수 홀수 개수](https://beunyeong.tistory.com/211)
 - [[프로그래머스] 특정 문자 제거하기, 문자 반복 출력하기](https://beunyeong.tistory.com/210)
-- [[프로그래머스] 문자열 뒤집기, 세균 번식](https://beunyeong.tistory.com/209)
 <!-- BLOG-POST-LIST:END -->
 
 ---
