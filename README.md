@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[프로그래머스] 배열 원소의 길이](https://beunyeong.tistory.com/216)
 - [[프로그래머스] 자릿수 더하기](https://beunyeong.tistory.com/215)
 - [[프로그래머스] 머쓱이보다 키 큰 사람, 피자 나눠 먹기&lpar;1&rpar;](https://beunyeong.tistory.com/214)
 - [[프로그래머스] 삼각형의 완성조건&lpar;1&rpar;, 배열의 유사도](https://beunyeong.tistory.com/213)
 - [[프로그래머스] 점의 위치 구하기, 아이스 아메리카노](https://beunyeong.tistory.com/212)
-- [[프로그래머스] 배열 자르기, 짝수 홀수 개수](https://beunyeong.tistory.com/211)
 <!-- BLOG-POST-LIST:END -->
 
 ---
