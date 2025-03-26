@@ -38,10 +38,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Notion 링크 정리](https://beunyeong.tistory.com/notice/225)
+- [[배포] AWS EC2를 활용한 Docker 기반 애플리케이션 배포](https://beunyeong.tistory.com/223)
 - [[프로그래머스] 순서쌍의 개수](https://beunyeong.tistory.com/222)
 - [[프로그래머스] 피자 나눠 먹기&lpar;3&rpar;](https://beunyeong.tistory.com/220)
 - [[프로그래머스] n의 배수 고르기](https://beunyeong.tistory.com/217)
-- [[프로그래머스] 배열 원소의 길이](https://beunyeong.tistory.com/216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
