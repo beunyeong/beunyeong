@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[정보처리기사] UI 설계 원칙과 설계 지침](https://beunyeong.tistory.com/232)
 - [[프로그래머스] 중복된 숫자 개수](https://beunyeong.tistory.com/228)
 - [[프로그래머스] 서울에서 김서방 찾기](https://beunyeong.tistory.com/227)
 - [[프로그래머스] 공배수](https://beunyeong.tistory.com/226)
 - [Notion 링크 정리](https://beunyeong.tistory.com/notice/225)
-- [[배포] AWS EC2를 활용한 Docker 기반 애플리케이션 배포](https://beunyeong.tistory.com/223)
 <!-- BLOG-POST-LIST:END -->
 
 ---
