@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[컬렉션 프레임워크] 해시&lpar;Hash&rpar;](https://beunyeong.tistory.com/236)
 - [[컬렉션 프레임워크] List](https://beunyeong.tistory.com/235)
 - [[정보처리기사] UI 설계 원칙과 설계 지침](https://beunyeong.tistory.com/232)
 - [[프로그래머스] 중복된 숫자 개수](https://beunyeong.tistory.com/228)
 - [[프로그래머스] 서울에서 김서방 찾기](https://beunyeong.tistory.com/227)
-- [[프로그래머스] 공배수](https://beunyeong.tistory.com/226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
