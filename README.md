@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[1 과목] GoF&lpar;Gangs of Four&rpar; 디자인 패턴&lpar;Design Pattern&rpar;](https://beunyeong.tistory.com/245)
 - [[1 과목] 파이프 필터 &lpar;Pipe-Filters&rpar;](https://beunyeong.tistory.com/244)
 - [[2 과목] 알고리즘 설계 기법](https://beunyeong.tistory.com/243)
 - [[2 과목] 시간 복잡도 Big-O&lpar;빅오&rpar; 표기법](https://beunyeong.tistory.com/242)
 - [[2 과목] SPICE 모델의 레벨](https://beunyeong.tistory.com/241)
-- [[2 과목] 소스 코드 품질 분석 도구](https://beunyeong.tistory.com/240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
