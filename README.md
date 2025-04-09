@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[정보처리기사] SPICE 모델의 레벨](https://beunyeong.tistory.com/241)
+- [[정보처리기사] 소스 코드 품질 분석 도구](https://beunyeong.tistory.com/240)
+- [[정보처리기사] 연결리스트&lpar;LinkedList&rpar;](https://beunyeong.tistory.com/239)
+- [[정보처리기사] DRM&lpar;Digital Rights Management&rpar;](https://beunyeong.tistory.com/238)
 - [[컬렉션 프레임워크] HashSet](https://beunyeong.tistory.com/237)
-- [[컬렉션 프레임워크] 해시&lpar;Hash&rpar;](https://beunyeong.tistory.com/236)
-- [[컬렉션 프레임워크] List](https://beunyeong.tistory.com/235)
-- [[정보처리기사] UI 설계 원칙과 설계 지침](https://beunyeong.tistory.com/232)
-- [[프로그래머스] 중복된 숫자 개수](https://beunyeong.tistory.com/228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
