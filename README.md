@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[컬렉션 프레임워크] Set](https://beunyeong.tistory.com/248)
 - [[프로그래머스] 대문자와 소문자](https://beunyeong.tistory.com/247)
 - [[1 과목] 마스터 - 슬레이브&lpar;Master-Slave&rpar;](https://beunyeong.tistory.com/246)
 - [[1 과목] GoF&lpar;Gangs of Four&rpar; 디자인 패턴&lpar;Design Pattern&rpar;](https://beunyeong.tistory.com/245)
 - [[1 과목] 파이프 필터 &lpar;Pipe-Filters&rpar;](https://beunyeong.tistory.com/244)
-- [[2 과목] 알고리즘 설계 기법](https://beunyeong.tistory.com/243)
 <!-- BLOG-POST-LIST:END -->
 
 ---
