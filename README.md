@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[1 과목] 오답노트](https://beunyeong.tistory.com/254)
 - [[4 과목] TCP / UDP](https://beunyeong.tistory.com/253)
 - [[1 과목] 럼바우&lpar;Rumbaugh&rpar; 객체지향 분석 기법](https://beunyeong.tistory.com/250)
 - [[1 과목] 정형 기술 검토&lpar;FTR&rpar; 지침 사항](https://beunyeong.tistory.com/249)
 - [[컬렉션 프레임워크] Set](https://beunyeong.tistory.com/248)
-- [[프로그래머스] 대문자와 소문자](https://beunyeong.tistory.com/247)
 <!-- BLOG-POST-LIST:END -->
 
 ---
