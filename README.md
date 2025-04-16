@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[4 과목] 오답노트](https://beunyeong.tistory.com/258)
 - [C 언어 포인터 개념](https://beunyeong.tistory.com/257)
 - [[4 과목] 응집도, 결합도](https://beunyeong.tistory.com/256)
 - [[4 과목] OSI 7계층](https://beunyeong.tistory.com/255)
 - [[1 과목] 오답노트](https://beunyeong.tistory.com/254)
-- [[4 과목] TCP / UDP](https://beunyeong.tistory.com/253)
 <!-- BLOG-POST-LIST:END -->
 
 ---
