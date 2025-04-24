@@ -72,4 +72,5 @@
 
 
 ## 🌳 My GitHub 3D Contribution Graph
-![GitHub 3D Contribution](./profile-3d-contrib/profile-gitblock.svg?v=2)
+![GitHub 3D Contribution](https://raw.githubusercontent.com/beunyeong/beunyeong/main/profile-3d-contrib/profile-gitblock.svg?v=2)
+
