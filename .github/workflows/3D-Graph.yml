@@ -22,6 +22,7 @@ jobs:
         run: |
           git config user.name "beunyeong"
           git config user.email "beunyeong.b@gmail.com"
+          git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/beunyeong/beunyeong.git
           git add -A .
           git commit -m "Feat: 3D-Graph 파일 업데이트" || echo "커밋할 변경 사항이 없습니다"
           git push origin main
