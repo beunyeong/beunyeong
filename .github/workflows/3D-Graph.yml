@@ -23,9 +23,7 @@ jobs:
       - name: Commit & Push
         run: |
           git config user.name "beunyeong"
-          git config user.email "beunyeong.b@gmail.com"
-          git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/beunyeong/beunyeong.git
-          
+          git config user.email "beunyeong.b@gmail.com"          
           DATE=$(date +'%Y-%m-%d')
           git add -A .
 
