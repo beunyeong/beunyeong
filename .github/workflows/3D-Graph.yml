@@ -2,11 +2,11 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *" # 매일 03:00 KST 실행 (KST 03:00)
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write # Push할 수 있게 권한 부여
+  contents: write
 
 jobs:
   build:
@@ -25,10 +25,9 @@ jobs:
 
       - name: Generate GitHub 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          username: beunyeong
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          USERNAME: beunyeong
 
       - name: Commit & Push
         run: |
