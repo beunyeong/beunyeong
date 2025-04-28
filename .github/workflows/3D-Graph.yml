@@ -3,28 +3,40 @@ name: GitHub-Profile-3D-Contrib
 on:
   schedule:
     - cron: "0 18 * * *" # 매일 03:00 KST 실행 (KST 03:00)
-  workflow_dispatch: # 수동 실행 가능
+  workflow_dispatch:
+
+permissions:
+  contents: write # Push할 수 있게 권한 부여
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Generate 3D Contribution Graph
+      - name: Remove old 3D Contribution Graph
+        run: |
+          [ -d "profile-3d-contrib" ] && rm -rf profile-3d-contrib
+        continue-on-error: true
+
+      - name: Generate GitHub 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          username: beunyeong
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          USERNAME: beunyeong
 
       - name: Commit & Push
         run: |
           git config user.name "beunyeong"
-          git config user.email "beunyeong.b@gmail.com"          
+          git config user.email "beunyeong.b@gmail.com"
+          git pull origin main --rebase || echo "Pull failed, skipping rebase."
+          
           DATE=$(date +'%Y-%m-%d')
           git add -A .
-
-          git diff --cached --quiet && echo "커밋할 변경 사항이 없습니다" || ( \
-            git commit -m "Update: ${DATE} 3D 그래프 업데이트" && \
-            git push origin main || echo "푸시할 변경 사항이 없습니다" )
+          git commit -m "Update: ${DATE} 3D 그래프 업데이트" || echo "No changes to commit"
+          git push origin main || echo "No changes to push"
