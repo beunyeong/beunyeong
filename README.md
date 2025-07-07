@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[실기] 소프트웨어 구축](https://beunyeong.tistory.com/270)
 - [[실기] 네트워크](https://beunyeong.tistory.com/269)
 - [[250429] Spring Boot + Swagger로 API 문서 자동화](https://beunyeong.tistory.com/263)
 - [[4 과목] 오답노트](https://beunyeong.tistory.com/258)
 - [C 언어 포인터 개념](https://beunyeong.tistory.com/257)
-- [[4 과목] 응집도, 결합도](https://beunyeong.tistory.com/256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
