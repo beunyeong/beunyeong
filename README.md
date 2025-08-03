@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[250801]  Spring AI - ChatClient 빈 등록 오류 해결](https://beunyeong.tistory.com/278)
 - [[공공데이터] @JsonProperty 활용법](https://beunyeong.tistory.com/275)
 - [[실기] 운영체제](https://beunyeong.tistory.com/271)
 - [[실기] 소프트웨어 구축](https://beunyeong.tistory.com/270)
 - [[실기] 네트워크](https://beunyeong.tistory.com/269)
-- [[250429] Spring Boot + Swagger로 API 문서 자동화](https://beunyeong.tistory.com/263)
 <!-- BLOG-POST-LIST:END -->
 
 ---
