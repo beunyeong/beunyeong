@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[Spring] [카카오 로그인] RestTemplate vs WebClient](https://beunyeong.tistory.com/286)
 - [[Spring] 중첩 클래스와 DTO 설계](https://beunyeong.tistory.com/285)
 - [[250801]  Spring AI - ChatClient 빈 등록 오류 해결](https://beunyeong.tistory.com/278)
 - [[공공데이터] @JsonProperty 활용법](https://beunyeong.tistory.com/275)
 - [[실기] 운영체제](https://beunyeong.tistory.com/271)
-- [[실기] 소프트웨어 구축](https://beunyeong.tistory.com/270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
