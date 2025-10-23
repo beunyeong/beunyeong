@@ -37,11 +37,11 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [[3과목] [통계학 개론] 척도의 종류&lpar;질적, 양적&rpar;](https://beunyeong.tistory.com/304)
 - [[프로그래머스] 예산](https://beunyeong.tistory.com/293)
 - [[JPA] [MySQL] @GeneratedValue AUTO vs IDENTITY 문제 해결](https://beunyeong.tistory.com/292)
 - [[JPA] [MySQL] ON DELETE CASCADE와 소프트 삭제&lpar;Soft Delete&rpar;](https://beunyeong.tistory.com/291)
 - [[Spring] [카카오 로그인] RestTemplate vs WebClient](https://beunyeong.tistory.com/286)
-- [[Spring] 중첩 클래스와 DTO 설계](https://beunyeong.tistory.com/285)
 <!-- BLOG-POST-LIST:END -->
 
 ---
