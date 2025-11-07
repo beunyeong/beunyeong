@@ -37,10 +37,10 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
-- [[3과목] [정형 데이터 마이닝] 군집분석 - 작성중](https://beunyeong.tistory.com/308)
+- [[3과목] [정형 데이터 마이닝] 군집분석](https://beunyeong.tistory.com/308)
 - [[3과목] [통계 분석] 다변량 분석](https://beunyeong.tistory.com/307)
 - [[3과목] [통계 분석] 시계열 예측](https://beunyeong.tistory.com/306)
-- [[3과목] [정형 데이터 마이닝] 분류 분석 - 정리중](https://beunyeong.tistory.com/305)
+- [[3과목] [정형 데이터 마이닝] 분류 분석](https://beunyeong.tistory.com/305)
 - [[3과목] [통계학 개론] 척도의 종류&lpar;질적, 양적&rpar;](https://beunyeong.tistory.com/304)
 <!-- BLOG-POST-LIST:END -->
 
