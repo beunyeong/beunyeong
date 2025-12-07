@@ -1,40 +1,103 @@
-# Hi there 👋  
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=F38181&text=Eunyeong's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
-<a href="https://gitmoji.dev">
-  <img src="https://img.shields.io/badge/gitmoji-%20🥰%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji"/>
+
+
+<!-- --------------------------- My Projects --------------------------- -->
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1002&color=F38181&background=FFFFFF00&width=435&size=28&lines=%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+My+Projects" alt="Typing SVG" />
 </a>
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Eunyeong's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+<br/>
 
----
 
-## 📌 About Me  
+- **Recifit (레시핏) - 개인 사이드 프로젝트**  
+  냉장고 속 재료로 완성하는 레시피 추천 서비스  
+  *(MVP 개발 완료, 추가 기능 개발 예정)*  
 
-안녕하세요! 백은영입니다.👋  
-저는 효율적인 개발과 사용자 경험을 최우선으로 생각하는 개발자가 되고 싶습니다. 🚀  
-사용자들이 편리하고 즐거운 경험을 쌓을 수 있도록 끊임없이 고민하고 개발합니다.  
-함께 성장하며 더 나은 서비스를 만들기 위해 노력하겠습니다. 🐢🐰
+  <a href="https://github.com/beunyeong/recifit.git" target="_blank">
+    <img src="https://img.shields.io/badge/Backend Repo-555555?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  </a>
 
----
 
-## 📚 Tech Stack  
+- **TastefulAI - 오늘 뭐 먹지?**  
+  사용자 맞춤형 AI 식사 추천 서비스  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp
+  *(스파르타 내일배움캠프 최종 프로젝트)*  
+  **최우수상(1등) 수상**
+
+  <a href="https://github.com/tasteful-ai/tasteful-ai" target="_blank">
+    <img src="https://img.shields.io/badge/Backend Repo-555555?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  </a>
+  <a href="https://github.com/beunyeong/tasteful-ai-client.git" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend Repo-555555?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  </a>
+
+- **Owner - 단기 협업 프로젝트**  
+  AWS S3 이미지 업로드, 리스트 자동 정렬, 권한 기반 접근 제어를 제공하는 Trello 스타일 협업 보드 서비스  
+
+  *(백엔드 4명, 스파르타 내일배움캠프 프로젝트)*
+
+  <a href="https://github.com/beunyeong/owner.git" target="_blank">
+    <img src="https://img.shields.io/badge/Backend Repo-555555?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  </a>
+
+<br/><br/>
+<!-- --------------------------- Tech Stack --------------------------- -->
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1002&color=F38181&background=FFFFFF00&width=435&size=28&lines=%F0%9F%9B%A0+Tech+Stack" alt="Typing SVG" />
+</a>
+
+<br/>
+
+### 💻 Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
 </p>
 
----
+### 🗄️ Database & Cache
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</p>
 
-## 📝 Latest Blog Posts  
+### ☁ Infra & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</p>
+
+### 📚 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/QueryDSL-0078C0?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
+
+### 🛠 Collaboration & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</p>
+
+
+<br/><br/>
+<!-- --------------------------- Blog Posts --------------------------- -->
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1002&color=F38181&background=FFFFFF00&width=435&size=28&lines=%F0%9F%93%9D+Blog+Posts" alt="Typing SVG" />
+</a>
+
+<br/>
 
 <!-- BLOG-POST-LIST:START -->
 - [[SQL/Oracle] NULL 치환 함수](https://beunyeong.tistory.com/316)
@@ -44,33 +107,41 @@
 - [[3과목] [정형 데이터 마이닝] 군집분석](https://beunyeong.tistory.com/308)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-## 🔗 Connect With Me  
-
-<p align="center">
-  <a href="https://beunyeong.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/>
-  </a>
-  <a href="작성중..." target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  </a>
-  <a href="beunyeong.b@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
-
-📧 Email: **beunyeong.b@gmail.com**  
-
----
-
-## 🎨 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beunyeong&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
 
 
-## 🌳 My GitHub 3D Contribution Graph
+<br/><br/>
+<!-- --------------------------- GitHub 3D Graph --------------------------- -->
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1002&color=F38181&background=FFFFFF00&width=435&size=28&lines=%F0%9F%8C%B3+GitHub+3D+Graph" alt="Typing SVG" />
+</a>
+
+<br/>
+
 ![GitHub 3D Contribution](https://raw.githubusercontent.com/beunyeong/beunyeong/main/profile-3d-contrib/profile-gitblock.svg?v=2)
 
+
+<br/><br/>
+<!-- --------------------------- Connect With Me --------------------------- -->
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1002&color=F38181&background=FFFFFF00&width=435&size=28&lines=%F0%9F%94%97+Connect+With+Me" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<div align="left">
+
+  <a href="mailto:beunyeong.b@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F38181?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://beunyeong.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory_Blog-F7CDD1?style=flat-square&logo=blogger&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/beunyeong" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+
+</div>
