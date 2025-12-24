@@ -100,11 +100,11 @@
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [제47회 데이터 분석 준전문가&lpar;ADsP&rpar; 합격](https://beunyeong.tistory.com/317)
 - [[SQL/Oracle] NULL 치환 함수](https://beunyeong.tistory.com/316)
 - [[SQLD] 데이터 모델링의 이해](https://beunyeong.tistory.com/315)
 - [[SQL 기본] 서브쿼리](https://beunyeong.tistory.com/311)
 - [[SQL 활용] 정규 표현식](https://beunyeong.tistory.com/310)
-- [[3과목] [정형 데이터 마이닝] 군집분석](https://beunyeong.tistory.com/308)
 <!-- BLOG-POST-LIST:END -->
 
 
