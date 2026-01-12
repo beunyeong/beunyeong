@@ -100,11 +100,11 @@
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [[CSS] border-radius: 꼭짓점 변경](https://beunyeong.tistory.com/323)
 - [[1단계] 정렬, K번째수 - 작성중](https://beunyeong.tistory.com/322)
 - [제47회 데이터 분석 준전문가&lpar;ADsP&rpar; 합격](https://beunyeong.tistory.com/317)
 - [[SQL/Oracle] NULL 치환 함수](https://beunyeong.tistory.com/316)
 - [[SQLD] 데이터 모델링의 이해](https://beunyeong.tistory.com/315)
-- [[SQL 기본] 서브쿼리](https://beunyeong.tistory.com/311)
 <!-- BLOG-POST-LIST:END -->
 
 
