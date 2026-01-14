@@ -100,11 +100,11 @@
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [[1단계][Java] 2022 KAKAO TECH INTERNSHIP, 성격 유형 검사하기](https://beunyeong.tistory.com/328)
 - [[CSS] border-radius: 꼭짓점 변경](https://beunyeong.tistory.com/323)
 - [[1단계] 정렬, K번째수 - 작성중](https://beunyeong.tistory.com/322)
 - [제47회 데이터 분석 준전문가&lpar;ADsP&rpar; 합격](https://beunyeong.tistory.com/317)
 - [[SQL/Oracle] NULL 치환 함수](https://beunyeong.tistory.com/316)
-- [[SQLD] 데이터 모델링의 이해](https://beunyeong.tistory.com/315)
 <!-- BLOG-POST-LIST:END -->
 
 
