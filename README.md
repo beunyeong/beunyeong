@@ -100,11 +100,11 @@
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Git 기초] ls로 Git 저장소&lpar;.git&rpar; 여부 확인하기](https://beunyeong.tistory.com/333)
 - [[Greedy] 그리디 알고리즘](https://beunyeong.tistory.com/330)
 - [[1단계] [Java] 연습문제, 자릿수 더하기](https://beunyeong.tistory.com/329)
 - [[1단계][Java] 2022 KAKAO TECH INTERNSHIP, 성격 유형 검사하기](https://beunyeong.tistory.com/328)
-- [[CSS] border-radius: 꼭짓점 변경](https://beunyeong.tistory.com/323)
-- [[1단계] [Java] 정렬, K번째수](https://beunyeong.tistory.com/322)
+- [[Git] git init 후 push가 거절되는 이유](https://beunyeong.tistory.com/325)
 <!-- BLOG-POST-LIST:END -->
 
 
