@@ -100,11 +100,11 @@
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [[문자열] 문자열 기초 2편 - 문자열 &amp;harr; 숫자 형변환](https://beunyeong.tistory.com/335)
-- [[문자열] 문자열 기초 개념 1편](https://beunyeong.tistory.com/334)
+- [[JAVA] 코딩테스트 문법 정리](https://beunyeong.tistory.com/339)
+- [[문자열_2편] 문자열 &amp;harr; 숫자 형변환](https://beunyeong.tistory.com/335)
+- [[문자열_1편] 문자열 기초](https://beunyeong.tistory.com/334)
 - [[Git 기초] ls로 Git 저장소&lpar;.git&rpar; 여부 확인하기](https://beunyeong.tistory.com/333)
 - [[Greedy] 그리디 알고리즘](https://beunyeong.tistory.com/330)
-- [[1단계] [Java] 연습문제, 자릿수 더하기](https://beunyeong.tistory.com/329)
 <!-- BLOG-POST-LIST:END -->
 
 
