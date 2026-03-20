@@ -102,9 +102,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [[1546] 평균 구하기](https://beunyeong.tistory.com/347)
 - [[11720] 숫자의 합 구하기](https://beunyeong.tistory.com/346)
-- [[2과목] 문제 풀다보면 헷갈리는 용어 정리](https://beunyeong.tistory.com/344)
-- [[1과목] 이해보단 암기 하기 위해 만들어진 정리 노트](https://beunyeong.tistory.com/343)
 - [[JAVA] 코딩테스트 문법 정리](https://beunyeong.tistory.com/339)
+- [[문자열_3편] Character 주요 메서드 정리](https://beunyeong.tistory.com/338)
+- [[문자열_2편] 문자열 &amp;harr; 숫자 형변환](https://beunyeong.tistory.com/335)
 <!-- BLOG-POST-LIST:END -->
 
 
